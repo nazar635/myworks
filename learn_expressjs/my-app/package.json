@@ -1,0 +1,22 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "sample application to learn expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazar635/myworks.git"
+  },
+  "author": "Nazar Hussain.S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazar635/myworks/issues"
+  },
+  "homepage": "https://github.com/nazar635/myworks#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
